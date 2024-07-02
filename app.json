@@ -1,14 +1,14 @@
 {
   "name": "BLADE-MD",
   "description": "A Whatsapp md bot built in NodeJs to make experience better",
-  "logo": "https://telegra.ph/file/5b8747782b8fb7312bd9d.jpg",
+  "logo": "https://telegra.ph/file/5e9bded00fc5200a2c4a5.jpg",
   "keywords": ["nodejs", "bot", "whatsapp bot", "Zero-Two", "blade Bot", "blade","BLADE-MD","theme bot","multi device","baileys","Alex tv"],
   "success_url": "/",
   "stack": "container",
 "env": {
   "OWNER_NAME": {
   "description": "BOT OWNER NAME", 
-      "value": "Alexdavid"
+      "value": "Noah"
   },
   "ALIVE_MESSAGE": {
     "description": " SET YOUR ALIVE MESSAGE FOR THE BOT",
@@ -33,7 +33,7 @@
     },
    "THUMB_IMAGE": {
     "description": "THUMBNAIL for bot.",
-     "value": "https://telegra.ph/file/5b8747782b8fb7312bd9d.jpg"
+     "value": "https://telegra.ph/file/5e9bded00fc5200a2c4a5.jpg"
     },
     "ANTI_BAD_WORD": {
     "description": "Put words here. If you want it enabled in your bot otherwise leave it blank",
@@ -70,12 +70,12 @@
   },
   "OWNER_NUMBER": {
     "description": "The phone numbers of the users who you want to be admin for the bot (should be in international format without + and multiple numbers must be separated by a comma \",\")",
-       "value": "put owner number"
+       "value": "+242053532444"
  },	  
    "SESSION_ID": {
     "description": "DONT CUT BLADE-MD;;; WORD PUT YOURE SESSION ID HERE.",
     "required" :true,
-    "value": "BLADE-MD;;;"
+    "value": "eyJub2lzZUtleSI6eyJwcml2YXRlIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiaUcyRGl5QklLc2oyaDgwSUx0ZHhqZjdQWk1ZcTVHTGV1Q1NNL2o1L1FuND0ifSwicHVibGljIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiNml3NWczeTF0Y3hIaWJBNi9VbTFYb3RrY1FkN2JiWHJnM2laN3d6ck1XVT0ifX0sInBhaXJpbmdFcGhlbWVyYWxLZXlQYWlyIjp7InByaXZhdGUiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJpSjZlalp0ZCsreGNHaGRXVGFUQlovRm5YMWRXd0tkekQraEFXUlB5dUhrPSJ9LCJwdWJsaWMiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiIwREhRK2tkazNMOTNkNmtqTThXem4vbGtYck42Y0h4ZE55OU5KRzRpRkNJPSJ9fSwic2lnbmVkSWRlbnRpdHlLZXkiOnsicHJpdmF0ZSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6IklHYitJQkllTm9tSTQ2c0d1c2ZRa0U0YXk4ZnpQeGF6d1E4MU5PTWxXSHM9In0sInB1YmxpYyI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6Ilgya285NEVCTW96MXIreTRxd3h5d1JlSkJROWxKTml3WUdvaXprK0ZNVE09In19LCJzaWduZWRQcmVLZXkiOnsia2V5UGFpciI6eyJwcml2YXRlIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiTUpzaW9yOEdvK2hscEt1V2RRTnFJb0NyNktkVGswbVhDUGpmRHlwWEhrST0ifSwicHVibGljIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiZGFMcUxTMTdRaEtQUzcwMS9MVUhKZm9jank0MDhGVWNDNmdhUG5vOXJ4UT0ifX0sInNpZ25hdHVyZSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6IlhyUXZ1R00vdHltTm8xdE5jbTZDMzhJOUppUy9jVDVONWxNSFAwVkhibG9Hd0piUGwxZ0hhUm5GdHhUaFhCUXo3ZFY1SFJhclVjRU9RVFgyOGdWMGlBPT0ifSwia2V5SWQiOjF9LCJyZWdpc3RyYXRpb25JZCI6NTksImFkdlNlY3JldEtleSI6InBMcnU5cFJaU0E3dDFGbEFjM2hLRWtxSXpVTk1JT3krcUYreXRvRnFaK1U9IiwicHJvY2Vzc2VkSGlzdG9yeU1lc3NhZ2VzIjpbXSwibmV4dFByZUtleUlkIjozMSwiZmlyc3RVbnVwbG9hZGVkUHJlS2V5SWQiOjMxLCJhY2NvdW50U3luY0NvdW50ZXIiOjAsImFjY291bnRTZXR0aW5ncyI6eyJ1bmFyY2hpdmVDaGF0cyI6ZmFsc2V9LCJkZXZpY2VJZCI6Ill5Z1d1Q3VVUUVhUXBkTkNxZUltS2ciLCJwaG9uZUlkIjoiY2E5MzIyYTgtMDM4OC00ZTA5LThkN2ItMmI5ODAyMTBmZGU2IiwiaWRlbnRpdHlJZCI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6IkNhc1U4U1hTNWpWemlBbFBUdU1oYTBUMjFtRT0ifSwicmVnaXN0ZXJlZCI6ZmFsc2UsImJhY2t1cFRva2VuIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiR3dPUU5NVVAyKzlncEoyZTJvUE5SS1VqTzRrPSJ9LCJyZWdpc3RyYXRpb24iOnt9LCJhY2NvdW50Ijp7ImRldGFpbHMiOiJDSUx6bExzSEVPT2prTFFHR0FFZ0FDZ0EiLCJhY2NvdW50U2lnbmF0dXJlS2V5IjoicnpBelg0ZUtJUld5cjNtdzhvL1VzUFZJSEdhV3Fhc1V5YWt2NnBONFN4cz0iLCJhY2NvdW50U2lnbmF0dXJlIjoiYkRpNUM5R3B0VGl2alBXUG1LUXdva2xWdkhjcm1HY1hSWEdsL2xoeUVVbXFqT0cwWXhjRzJ4OEhjaEZBczhHVVgvYXFlWW9SVlVoTnAzKyt0eXV5Q2c9PSIsImRldmljZVNpZ25hdHVyZSI6IlMrR2VXTWpzdk84eUNiY0J4VkIwVGJEYlJVYUlnUVloNkNHOHpRSEVCNHliOWVkSXNvSnZReHpNQW1pL3RrOTlFVzg2WTNBL1k3RzNjdThWeUlhNmlnPT0ifSwibWUiOnsiaWQiOiIyNDIwNTM1MzI0NDQ6NkBzLndoYXRzYXBwLm5ldCJ9LCJzaWduYWxJZGVudGl0aWVzIjpbeyJpZGVudGlmaWVyIjp7Im5hbWUiOiIyNDIwNTM1MzI0NDQ6NkBzLndoYXRzYXBwLm5ldCIsImRldmljZUlkIjowfSwiaWRlbnRpZmllcktleSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6IkJhOHdNMStIaWlFVnNxOTVzUEtQMUxEMVNCeG1scW1yRk1tcEwrcVRlRXNiIn19XSwicGxhdGZvcm0iOiJhbmRyb2lkIiwibGFzdEFjY291bnRTeW5jVGltZXN0YW1wIjoxNzE5OTMxMzY3fQ=="
   },
     "OPENAI_API_KEY": {
     "description": "Please put your OPENAI api key here.Get it from beta.openai.com(optional if u don't wan't then don't put it ",
@@ -92,7 +92,7 @@
   },
     "WORKTYPE": {
   "description": "Worktype of your bot. Use public or private, if it is private then only bot number can use it. If public then everyone can use it.",
-         "value": "public"
+         "value": "private"
   },
       "AUTO_REACTION": {
     "description": "Reacts emoji to all commands.",
@@ -101,11 +101,11 @@
   },
   "PACK_AUTHOR": {
     "description": "PUT STICKER AUTHER NAME",
-    "value": "ALEXTV:"
+    "value": "Noah Cyrus :"
   },
   "PACK_NAME": {
     "description": "PUT STICKER PACK NAME",
-    "value": "BLADE-MD"
+    "value": "Noah Cyrus"
   },
   "heroku": {
     "description": "Weather it is on heroku or not", 
